@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Development of vertcion.io website
+title: Development of vertcoin.io website
 author: docccjr
 date: january 6, 2023
 amount: 5000
