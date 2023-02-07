@@ -38,3 +38,6 @@ The next day I return to my hometown and wait for the finished track from the so
 I receive the track and send it to the customer with full transfer of all copyrights.
 
 If it doesn't matter, then I can use the instrumental from free access (free) and thus the final price will be lower by $100.
+
+My YouTube channel: https://www.youtube.com/@koresh_tony
+My songs: https://audius.co/koresh_tony
