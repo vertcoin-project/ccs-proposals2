@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: Development of vertcoin.io website
 author: docccjr
 date: january 6, 2023
@@ -7,17 +7,17 @@ amount: 5000
 milestones:
   - name: Cover basic costs - Milestone 1
     funds: 50% (2500 VTC)
-    done:
-    status: unfinished
+    done: February 09, 2023
+    status: finished
   - name: Maintenance and updates / work - Milestone 2
     funds: 50% (2500 VTC)
-    done:
-    status: unfinished
+    done: February 26, 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: February 09, 2023
+    amount: 2500
+  - date: February 26, 2023
+    amount: 1868.3
 ---
 This website will over time be the greatest marketing resource for Vertcoin ever!
 The brand new website vertcoin.io will be the GREATEST marketing resource for Vertcoin ever, but it is not free to develope and maintain. The website is live and has been live for over 1 year so this is an ongoing project. I have expenses on the domain, server, licenses + time spent. The goal is to do regular maintenance and development on the website and add new content, features, functonality and do some heavy search engine optimization - AND SPREAD THE WORD!
