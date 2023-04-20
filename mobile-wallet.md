@@ -1,7 +1,7 @@
 ---
 layout: fr
 title: Mobile Vertcoin Wallet
-author: vertion
+author: This proposal is up for grabs
 date: February 9, 2022
 amount: 10000
 milestones:
@@ -13,6 +13,11 @@ payouts:
   - date:
     amount:
 ---
+# Update 4/20/23
+This proposal has been up for over a year and hasn't met the funding required amount. Along with the depreciation of the VTC price and interests of mine lying elsewhere, I am hereby relinquishing my name from this proposal. With that, anyone else is free to pick up this project and claim the funding. The funding can also be used on another project given consensus by the community.
+
+Signed, vertion
+
 # Proposal
 While solutions like Coinomi have long been the go-to for a mobile wallet, many have expressed interest in a Vertcoin branded mobile wallet.  The wallet I am proposing will be a fork of an existing wallet software, [BlueWallet](https://github.com/BlueWallet/BlueWallet), which builds for Android and iOS.  Features will include using a BIP39 seed, hardware wallet compatibility, watch-only / multisig wallet support and future potential for lightning wallet support.
 
