@@ -1,0 +1,12 @@
+---
+title: Gemmer Listing for Vertcoin
+author: paeidovyn
+date: June 16, 2023
+amount: 0
+summary:
+Proposal to list Vertcoin on Gemmer
+• Does not have any cost
+• Displays Private Keys correctly
+• Datastream is RPC via electrumx
+https://github.com/primecoin/gemmer/wiki/Listing-on-Gemmer
+---
