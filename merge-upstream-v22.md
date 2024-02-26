@@ -10,8 +10,8 @@ milestones:
   done: December 31, 2022
   status: finished
 payouts:
-- date:
-  amount:
+- date: January 13, 2023
+  amount: 10000
 ---
 # Proposal
 
