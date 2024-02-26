@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: VTCember X Giveaway 2023
 author: Alvie
 date: October 28, 2023
@@ -7,11 +7,11 @@ amount: 5000
 milestones:
   - name: Giveaway completed (2023-12-31)
     funds: 100%
-    done: 
-    status: unfinished
+    done: January 1, 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: February 25, 2024
+    amount: 5014
 ---
 
 # What the proposal is about.
