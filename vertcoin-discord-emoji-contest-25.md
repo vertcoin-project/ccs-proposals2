@@ -21,7 +21,7 @@ payouts:
 
 # Vertcoin-discord-emoji-contest-25
 
-This proposal is for an emoji contest for the [Vertcoin Discord](discord.gg/vertcoin).
+This proposal is for an emoji contest for the [Vertcoin Discord](https://discord.gg/vertcoin).
 The emojis submitted may be used on Vertcoin Discord server.
 
 Here are the proposed rules:
