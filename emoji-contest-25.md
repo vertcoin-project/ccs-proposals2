@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: emoji-contest-25
+title: vertcoin-discord-emoji-contest-25
 author: dismad
 date: January 12, 2025
 amount: 5000 VTC
@@ -19,7 +19,12 @@ payouts:
 
 
 
-# Emoji-contest-25
+# Vertcoin-discord-emoji-contest-25
+
+This proposal is for an emoji contest for the [Vertcoin Discord](https://discord.gg/UFR7EvZDGs).
+The emojis submitted may be used on Vertcoin Discord server.
+
+Here are the proposed rules:
 
 ```
 * Welcome to the 5th annual Vertcoin emoji contest 
